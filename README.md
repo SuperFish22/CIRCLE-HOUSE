@@ -1,4 +1,5 @@
 # CIRCLE-HOUSE
+# Examples (Пример сайта)
 # Installation (установка)
 **PyMuPDF** requires **Python 3.9 or later**, install using **pip** with:
 `pip install PyMuPDF`
